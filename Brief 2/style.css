@@ -1,0 +1,17 @@
+body {
+    margin: 10px;
+    display: flex;
+}
+li {
+    margin-right: 10px;
+    display: inline;
+    vertical-align: middle;
+}
+a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
